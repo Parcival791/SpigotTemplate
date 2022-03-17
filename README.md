@@ -14,3 +14,6 @@ Change the Package Name. (Optional: change the class name
 
 ###### pom.xml
 Change every occurence of pluginTemplate to your plugin name/etc
+
+
+Use at your own risk, I do not guarantee anything.
