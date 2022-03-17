@@ -1,0 +1,8 @@
+name: AllTheItems
+version: '1.0-SNAPSHOT'
+main: net.parcival.alltheitems.AllTheItems
+api-version: 1.18
+commands:
+  getcurrentitem:
+  skipitemimpossible:
+  skipitem:

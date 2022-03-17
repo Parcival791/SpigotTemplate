@@ -1,0 +1,5 @@
+net\parcival\alltheitems\commands\SkipItem.class
+net\parcival\alltheitems\commands\SkipItemImpossible.class
+net\parcival\alltheitems\listeners\ItemPickupListener.class
+net\parcival\alltheitems\AllTheItems.class
+net\parcival\alltheitems\commands\GetCurrentItem.class

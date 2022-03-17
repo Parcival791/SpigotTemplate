@@ -1,0 +1,5 @@
+name: pluginTemplate
+version: '${project.version}'
+main: net.parcival.alltheitems.pluginTemplate
+api-version: 1.18
+commands:
